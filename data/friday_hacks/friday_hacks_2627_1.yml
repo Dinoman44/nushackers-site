@@ -1,0 +1,22 @@
+start_date: 2026-04-05 19:00:00 +0800
+start_nr: 300
+hacks:
+- venue: <a href="https://nusmods.com/venues/COM3-01-21">COM3</a>
+  blog_post: /2026/04/friday-hacks-300
+  topics:
+  - speaker: Me
+    title: Welcome tea
+    from: Quackers
+- nospeaker: true
+- nospeaker: true
+- nospeaker: true
+- nohack: Recess Week
+- nohack: Midterms
+- nospeaker: true
+- nospeaker: true
+- nospeaker: true
+- nospeaker: true
+- nospeaker: true
+- nospeaker: true
+- nohack: Reading Week
+- nohack: Exam Week
